@@ -1,5 +1,5 @@
 # permutation_counting
-In this GitHub repository, we go over the implementation of the algorithms from the article "Inference for Bayesian nonparametric models with binary response data via permutation counting. In this short tutorial, we cover two examples. First, we calculate the permanent of a block-rectangular matrix. Second, we replicate the Dirichlet process toy model from Section 4.1 from the main article.
+In this GitHub repository, we go over the implementation of the algorithms from the article "Inference for Bayesian nonparametric models with binary response data via permutation counting". In this short tutorial, we cover how to calculate the permanent of a block-rectangular matrix.
 
 ## Import
 ```python
